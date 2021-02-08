@@ -1,3 +1,14 @@
+# Expense-Tracker
+
+![Output](assets/output.gif)
+
+## Concepts learnt
+
+- Basics of React
+- React Hooks
+- Context API
+- useState
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
