@@ -1,6 +1,6 @@
 # Expense-Tracker
 
-![Output](assets/output.gif)
+<img src = "assets/output.gif" width="300" height="320">
 
 ## Concepts learnt
 
