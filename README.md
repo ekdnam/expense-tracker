@@ -2,6 +2,8 @@
 
 <img src = "assets/output.gif" width="300" height="320">
 
+You can view the live site at [expense-tracker-ekdnam.netlify.app](https://expense-tracker-ekdnam.netlify.app)
+
 ## Concepts learnt (React)
 
 - Basics of React
